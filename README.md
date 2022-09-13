@@ -1,4 +1,3 @@
-# 工程简介
+# What is Fureria?
 
-# 延伸阅读
-
+Fureria is a rapid development scaffolding based on SpringBoot
